@@ -1,0 +1,11 @@
+decimal to binary : 
+
+Rules : 
+    -> Divide the number by 2
+    -> Write down the remainder
+    -> Repeat until the number is 0
+    -> The binary representation is the remainders read in reverse
+
+
+    Example : 65 -> A = 1000001
+

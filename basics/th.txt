@@ -1,0 +1,23 @@
+data  types 
+    -> int     -------- %d    max-number int can store(32,767)    min-number int can store(-32,768) 
+    -> float   --------%f
+    -> double  --------%di
+    -> char    --------%c    max-char (127)
+    -> long    -------%id
+
+types of opratoes :
+
+    1. Arithmetic Operators
+        -> Addition (+)
+        -> Subtraction (-)
+        -> Multiplication (*)
+        -> division (/)
+        -> modulas (%)
+
+    2. Relational Operators
+    3. Logical Operators
+    4. Assignment Operators
+    5. Increment and decrement operators
+    6. Conditional operators
+    7. Bitwise operators
+    8. Special operators
