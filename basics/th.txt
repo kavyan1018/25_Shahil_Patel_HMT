@@ -15,9 +15,42 @@ types of opratoes :
         -> modulas (%)
 
     2. Relational Operators
+
+        -> < (Less than)
+        -> <= (Less than or equal to)
+        -> > (Greater than)
+        -> >= (Greater than or equal to)
+        -> == (Equal to) and = (Assignment)
+        -> != (Not equal to)
+
     3. Logical Operators
+
+        -> && (Logical AND)
+        -> || (Logical OR)
+        -> ! (Logical NOT)
+
     4. Assignment Operators
+
+        -> a = a + 1   ==> a += 1
+        -> a = a - 1   ==> a -= 1
+        -> a = a * 1   ==> a *= 1
+        -> a = a / 1   ==> a /= 1
+        -> a = a % 1   ==> a %= 1
+
     5. Increment and decrement operators
+
+        -> Increment
+                -> pre-Increment ( ++a )
+                -> post-Increment ( a++ )
+
+        -> Decrement
+                -> pre-Decrement ( --a )
+                -> post-Decrement ( a-- )
+
+
+        post :- in post Increment or Decrement first the value is used and then it is changed.(+1)
+        pre :- in pre Increment or Decrement first the value is changed and then it is used.(+1)
+
     6. Conditional operators
     7. Bitwise operators
     8. Special operators
