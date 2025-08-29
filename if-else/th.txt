@@ -1,0 +1,13 @@
+C language provides “?” operator as a conditional operator.
+
+These are “Ternary Operators” as they take three operands.
+It is used as shown below:
+Syntax:
+
+Condition ? Expression1 : Expression2
+
+The statement above is equivalent to:
+        if (Condition)
+            Expression1
+        else
+            Expression2
