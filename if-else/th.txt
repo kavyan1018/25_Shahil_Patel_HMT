@@ -7,7 +7,26 @@ Syntax:
 Condition ? Expression1 : Expression2
 
 The statement above is equivalent to:
+
+normal if - else
+
         if (Condition)
             Expression1
         else
             Expression2
+
+
+Nested if - else
+
+        if (Condition)
+        {
+            Expression 1
+        }
+        else if(Condition)
+        {
+            Expression 2
+        }
+        else
+        {
+            Expression 3
+        }
