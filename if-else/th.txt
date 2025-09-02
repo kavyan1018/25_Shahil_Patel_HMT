@@ -30,3 +30,26 @@ Nested if - else
         {
             Expression 3
         }
+
+
+Ladder if 
+
+if()
+{
+
+}
+if()
+{
+    
+}
+if()
+{
+    
+}
+if()
+{
+    
+}
+else{
+    
+}
