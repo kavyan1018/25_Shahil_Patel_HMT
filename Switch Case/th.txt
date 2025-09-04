@@ -1,0 +1,17 @@
+what is switch case ?
+-> Switch case is a control statement that allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each case.
+
+
+syntax of switch case :
+
+switch(expression) {
+  case value1:
+    // code to be executed if expression equals value1
+    break;
+  case value2:
+    // code to be executed if expression equals value2
+    break;
+  ...
+  default:
+    // code to be executed if expression doesn't match any case
+}
