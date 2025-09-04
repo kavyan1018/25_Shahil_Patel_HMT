@@ -53,3 +53,37 @@ if()
 else{
     
 }
+
+
+
+Nested if 
+
+if(ch == 'm' || ch == 'M')
+{
+    if(age >= 21 && age <= 31 && qual == 'G' || qual == 'g')
+    {
+            printf("Eligible");   
+        }
+        else
+        {
+            printf("Not Eligible");
+        }
+}
+else
+{
+    if(ch == 'f' || ch == 'F')
+    {
+        if(age >= 18 && age <= 31 && qual == 'G' || qual == 'g' || qual == 'P' || qual == 'p')
+        {
+            printf("Eligible");   
+        }
+        else
+        {
+            printf("Not Eligible");
+        }
+    }
+    else
+    {
+        printf("Invalid Input");
+    }
+}
