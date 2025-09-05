@@ -15,3 +15,34 @@ switch(expression) {
   default:
     // code to be executed if expression doesn't match any case
 }
+
+
+
+
+Nested Switch case :
+
+  switch(expression) {
+  case value1:
+ 
+    // code to be executed if expression equals value1
+
+    switch(expression2) {
+      case valueA:
+        // code to be executed if expression2 equals valueA
+        break;
+      case valueB:
+        // code to be executed if expression2 equals valueB
+        break;
+      ...
+      default:
+        // code to be executed if expression2 doesn't match any case
+    }
+
+    break;
+  case value2:
+    // code to be executed if expression equals value2
+    break;
+  ...
+  default:
+    // code to be executed if expression doesn't match any case
+}
