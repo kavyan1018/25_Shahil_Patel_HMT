@@ -1,0 +1,22 @@
+syntax :
+
+For loop :
+for(initialization; condition; increment/decrement){
+    // code to be executed
+}
+
+
+While Loop :
+initialization;
+while(condition){
+    // code to be executed
+    increment/decrement;
+}
+
+
+Do While Loop :
+initialization;
+do{
+    // code to be executed
+    increment/decrement;
+}while(condition);
