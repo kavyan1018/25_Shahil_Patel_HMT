@@ -1,9 +1,9 @@
-// #include<stdio.h>
+// #include <stdio.h>
 
 // void main()
-// {        //row,column
+// {
+//     // 2 rows, 3 columns
 //     int arr[2][3] = {{1, 2, 3}, {4, 5, 6}};
-
 
 //     printf("%d\n", arr[0][0]);
 //     printf("%d\n", arr[0][1]);
@@ -11,10 +11,6 @@
 //     printf("%d\n", arr[1][0]);
 //     printf("%d\n", arr[1][1]);
 //     printf("%d\n", arr[1][2]);
-//     printf("%d\n", arr[2][0]);
-//     printf("%d\n", arr[2][1]);
-//     printf("%d\n", arr[2][2]);
-
 
 // }
 
